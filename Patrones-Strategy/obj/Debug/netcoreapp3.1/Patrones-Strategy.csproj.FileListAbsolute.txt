@@ -1,0 +1,14 @@
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\bin\Debug\netcoreapp3.1\Patrones-Strategy.exe
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\bin\Debug\netcoreapp3.1\Patrones-Strategy.deps.json
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\bin\Debug\netcoreapp3.1\Patrones-Strategy.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\bin\Debug\netcoreapp3.1\Patrones-Strategy.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\bin\Debug\netcoreapp3.1\Patrones-Strategy.dll
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\bin\Debug\netcoreapp3.1\Patrones-Strategy.pdb
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\obj\Debug\netcoreapp3.1\Patrones-Strategy.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\obj\Debug\netcoreapp3.1\Patrones-Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\obj\Debug\netcoreapp3.1\Patrones-Strategy.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\obj\Debug\netcoreapp3.1\Patrones-Strategy.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\obj\Debug\netcoreapp3.1\Patrones-Strategy.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\obj\Debug\netcoreapp3.1\Patrones-Strategy.dll
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\obj\Debug\netcoreapp3.1\Patrones-Strategy.pdb
+E:\unity\quark\Patrones\Patrones-Strategy\Patrones-Strategy\obj\Debug\netcoreapp3.1\Patrones-Strategy.genruntimeconfig.cache
