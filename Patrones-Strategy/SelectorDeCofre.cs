@@ -6,7 +6,7 @@ namespace Patrones_Strategy
 {
      class SelectorDeCofre
     {
-        public ICofre Cofre { get; set; }
+        public ICofre Cofre { get; private set; }
 
         public void ElgirCofre(ICofre cofre)
         {
